@@ -1,6 +1,6 @@
-# 👨🏻‍🎓 I'M RAGHAV
+# HI👋, I'M RAGHAV
 
-💫 About Me:
+🔊About Me:
 
 I’m a final-year B.Tech CSE student actively exploring opportunities in technology.<br>
 I build things. Sometimes those things are complex automation systems, sometimes they're ideas I'm still trying to articulate.<br>
@@ -17,7 +17,7 @@ What's consistent is that I'm obsessed with understanding how technology actuall
 [![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?logo=telegram&logoColor=white)](https://t.me/raghavsahdev)
 [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:raghavsahdev42@gmail.com)
 
-# 💻 Tech Stack:
+# 🤖 Tech Stack:
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
