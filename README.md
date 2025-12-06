@@ -1,7 +1,4 @@
-# I'M RAGHAV!
-👨🏻‍🎓
-👨🏻‍💼
-😎
+#👨🏻‍🎓I'M RAGHAV!
 💫 About Me:
 I’m a final-year B.Tech CSE student actively exploring opportunities in technology.<br>
 I build things. Sometimes those things are complex automation systems, sometimes they're ideas I'm still trying to articulate.<br>
