@@ -12,7 +12,4 @@ I’m a final-year B.Tech CSE student actively exploring opportunities in techno
 ![](https://nirzak-streak-stats.vercel.app/?user=RaghavSahdev24&theme=github_dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=RaghavSahdev24&theme=github_dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
 
----
-[![](https://visitcount.itsvg.in/api?id=RaghavSahdev24&icon=10&color=1)](https://visitcount.itsvg.in)
-
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
