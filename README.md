@@ -1,4 +1,3 @@
-![Banner](Banner.jpeg)
 # HI👋, I'M RAGHAV
 
 🔊About Me:
